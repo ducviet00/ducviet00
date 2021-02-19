@@ -1,4 +1,5 @@
 ## Are you https? Because without you im just :// 😕
 
-![Hi Tzuyu](./hithere.gif)
-
+<p align="center">
+  <img src="./hithere.gif" alt="Hi Tzuyu"/>
+</p>
